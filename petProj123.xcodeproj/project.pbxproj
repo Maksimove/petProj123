@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		87DCE8CE2C1DBF5F00F56BF8 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 87DCE8CD2C1DBF5F00F56BF8 /* Storyboard.storyboard */; };
 		8FB8CD1B2C1DB76A00C77C7F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB8CD1A2C1DB76A00C77C7F /* AppDelegate.swift */; };
 		8FB8CD1D2C1DB76A00C77C7F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB8CD1C2C1DB76A00C77C7F /* SceneDelegate.swift */; };
 		8FB8CD1F2C1DB76A00C77C7F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB8CD1E2C1DB76A00C77C7F /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		87DCE8CD2C1DBF5F00F56BF8 /* Storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 		8FB8CD172C1DB76A00C77C7F /* petProj123.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = petProj123.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8FB8CD1A2C1DB76A00C77C7F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8FB8CD1C2C1DB76A00C77C7F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 				8FB8CD1E2C1DB76A00C77C7F /* ViewController.swift */,
 				8FB8CD2E2C1DBDF800C77C7F /* EvgeniyViewController.swift */,
 				8FB8CD302C1DBEAF00C77C7F /* cgnViewController.swift */,
+				87DCE8CD2C1DBF5F00F56BF8 /* Storyboard.storyboard */,
 				8FB8CD202C1DB76A00C77C7F /* Main.storyboard */,
 				8FB8CD232C1DB76B00C77C7F /* Assets.xcassets */,
 				8FB8CD252C1DB76B00C77C7F /* LaunchScreen.storyboard */,
@@ -132,6 +135,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8FB8CD242C1DB76B00C77C7F /* Assets.xcassets in Resources */,
+				87DCE8CE2C1DBF5F00F56BF8 /* Storyboard.storyboard in Resources */,
 				8FB8CD272C1DB76B00C77C7F /* Base in Resources */,
 				8FB8CD222C1DB76A00C77C7F /* Base in Resources */,
 			);
